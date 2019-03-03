@@ -7,7 +7,7 @@
     optimizer = Adam
     (試過SGD但表現不甚好)
     
-    初始lr = 1e-5
+    初始lr = 5e-3
     每5個epoch下降一半(*0.5)
     訓練40個epoch
 
